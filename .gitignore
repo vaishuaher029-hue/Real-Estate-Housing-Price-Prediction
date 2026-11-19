@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+housing_model.pkl
+housing_model_results.csv
+.ipynb_checkpoints/
